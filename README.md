@@ -1,5 +1,5 @@
 # Pojects-and-Work
-<p>All the projects I have done so far are in this directory</p><br>
+<p>All the projects I have done so far are in this Repository</p><br>
 <h2>Web Dev</h2>
 
 <p>Basic Projects using html, css, JavaScript, php, Mysql </p>
