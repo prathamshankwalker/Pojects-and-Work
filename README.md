@@ -3,7 +3,7 @@
 
 
 <h2>Machine Learning using TensorFlow</h2>
- <li> Insurance Cost Predictor : Regression model Using TensorFlow to predict the cost of insurance for individuals. </li>
+ <li> <b>Insurance Cost Predictor <b>: Regression model Using TensorFlow to predict the cost of insurance for individuals. </li>
  <li> Multi class Classification on the fashion mnist dataset In TensorFlow having 10 classes of fashion accessories.</li>
  <li> Pizza/Steak : To classify Images of Pizza and Steak using Covolutional Neural Networks.
  <li> Food101 : To classify 101 classes of Food images and beat the deep food paper using Transfer Learning. Used the EfficientnetB0 pretrained model for feature extraction and fine tuning.</li>
