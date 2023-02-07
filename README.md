@@ -8,7 +8,7 @@
  <li><b> Pizza/Steak </b>: To classify Images of Pizza and Steak using Covolutional Neural Networks.<br><br>
  <li> <b>Food101 </b>: To classify 101 classes of Food images and beat the deep food paper using Transfer Learning. Used the EfficientnetB0 pretrained model for feature extraction and fine tuning.</li><br>
  <li> <b>DTweets</b> : To classify tweets indicating a disaster or not indicating a disaster (binary classification) using Natural Language processing.</li><br>
- <li><b> SkimLit</b> : To classify the abstract of a research paper into Objective, Methods, results, etc using natural language processing -Replication of the Pubmed research paper using tensorflow.<br>
+ <li><b> SkimLit</b> : To classify the abstract of a research paper into Objective, Methods, results, etc using natural language processing -Replication of the Pubmed research paper using tensorflow.<br><br>
  <li><b> BitPredict</b> : Predicting the future price of Bitcoin using Timeseries and Forecasting Techniques.</li><br><br>
  
    
