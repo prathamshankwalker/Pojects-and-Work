@@ -2,8 +2,8 @@
 <p>All the personal projects I have done so far are in this Repository</p><br>
 <h2>Web Dev</h2>
 
-<p>Machine Learning using TensorFlow</p
- <li> Insurance Cost Predictor : Regression model Using TensorFlow to predict the cost of insurance for individuals. The dataset used is : <a href="https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv"</a>  <li>
+<h2>Machine Learning using TensorFlow<h2>
+ <li> Insurance Cost Predictor : Regression model Using TensorFlow to predict the cost of insurance for individuals. The dataset used is : <a href="https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv"</a>  </li>
  <li>  credit : This is a Creditors website for a business. It basically keeps the details of all the creditors(those who buy and pay the money later).
  One can add a new creditor, delete an existing and get the sum of amount he is left to pay. All the details of the creditors are stored in the database .<br>
  
