@@ -3,12 +3,12 @@
 
 
 <h2>Machine Learning using TensorFlow</h2>
- <li> Insurance Cost Predictor : Regression model Using TensorFlow to predict the cost of insurance for individuals. The dataset used is : <a href="https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv"</a>  </li>
+ <li> Insurance Cost Predictor : Regression model Using TensorFlow to predict the cost of insurance for individuals. </li>
  <li> Multi class Classification on the fashion mnist dataset In TensorFlow having 10 classes of fashion accessories.</li>
- <li> Pizza/Steak : To classify Images of Pizza and Steak using Covolutional Neural Networks.<a href="https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip"</a>
+ <li> Pizza/Steak : To classify Images of Pizza and Steak using Covolutional Neural Networks.
  <li> Food101 : To classify 101 classes of Food images and beat the deep food paper using Transfer Learning. Used the EfficientnetB0 pretrained model for feature extraction and fine tuning.</li>
  <li> DTweets : To classify tweets indicating a disaster or not indicating a disaster (binary classification) using Natural Language processing.</li>
- <li> SkimLit : To classify the abstract of a research paper into Objective, Methods, results, etc using natural language processing -Replication of the Pubmed research paper using tensorflow . Dataset used : <a href="https://github.com/Franck-Dernoncourt/pubmed-rct.git" </a></li>
+ <li> SkimLit : To classify the abstract of a research paper into Objective, Methods, results, etc using natural language processing -Replication of the Pubmed research paper using tensorflow.
  <li> BitPredict : Predicting the future price of Bitcoin using Timeseries and Forecasting Techniques.</li>
  
    
