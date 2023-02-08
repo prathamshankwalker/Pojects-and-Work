@@ -23,7 +23,8 @@
  <h2>Games</h2>
  <p> Initially to start with python, I tried to make some games out of curiousity. </p>
  <li><b> Space Invadors Retro </b>: This is a 2D game made using the "pygame" library of python. Its a fun game to refresh our childhood where you can use bullets to kill randomly spawning aliens! </li><br>
- <li> [Galaxy](https://github.com/prathamshankwalker/Projects-and-Work/tree/main/Games/Galaxy/): This is a 3D , cross platform game that is made using "kivy" library of python. Drive the spaceship through the infinite randomly generated path! </li><br>
+ 
+ -[Galaxy](https://github.com/prathamshankwalker/Projects-and-Work/tree/main/Games/Galaxy/): This is a 3D , cross platform game that is made using "kivy" library of python. Drive the spaceship through the infinite randomly generated path!
  
  
  
