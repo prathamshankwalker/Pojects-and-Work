@@ -1,9 +1,9 @@
-# Pojects-and-Work
+# Projects-and-Work
 <p>All the personal projects I have done so far are in this Repository</p><br>
 
 
 <h2>Machine Learning using TensorFlow</h2>
- <li> <b>Insurance Cost Predictor </b>: Regression model Using TensorFlow to predict the cost of insurance for individuals. </li><br>
+ <li> <b>InsuranceCP</b>: Regression model Using TensorFlow to predict the cost of insurance for individuals. </li><br>
  <li><b>FashionMnist</b> : Multi class Classification on the fashion mnist dataset In TensorFlow having 10 classes of fashion accessories.</li><br>
  <li><b> Pizza/Steak </b>: To classify Images of Pizza and Steak using Covolutional Neural Networks.<br><br>
  <li> <b>Food101 </b>: To classify 101 classes of Food images and beat the deep food paper using Transfer Learning. Used the EfficientnetB0 pretrained model for feature extraction and fine tuning.</li><br>
