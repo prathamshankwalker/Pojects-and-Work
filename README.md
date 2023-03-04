@@ -5,10 +5,29 @@ All the personal projects I have done so far are in this Repository
 - [InsuranceCP](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/regression_Insurance_prediction.ipynb)</b>: Regression model Using TensorFlow to predict the cost of insurance for individuals. 
 - [FashionMnist](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/classification_fashion_mnist.ipynb) : Multi class Classification on the fashion mnist dataset In TensorFlow having 10 classes of fashion accessories.
 - [Pizza/Steak](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/CNN_Pizza_Steak.ipynb) : To classify Images of Pizza and Steak using Covolutional Neural Networks.
-- [Food101](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/CNN_Transfer_learning_food101_project.ipynb) : To classify 101 classes of Food images and beat the deep food paper using Transfer Learning. Used the EfficientnetB0 pretrained model for feature extraction and fine tuning.
-- [DTweets](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/DTweets_NLP.ipynb) : To classify tweets indicating a disaster or not indicating a disaster (binary classification) using Natural Language processing.
--  [SkimLit](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/SkimLit_NLP.ipynb) : To classify the abstract of a research paper into Objective, Methods, results, etc using natural language processing -Replication of the Pubmed research paper using tensorflow.
-- [BitPredict](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/BitPredict_Timeseries_and_Forecasting.ipynb): Predicting the future price of Bitcoin using Timeseries and Forecasting Techniques.
+- [Food101](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/CNN_Transfer_learning_food101_project.ipynb) : 
+	- Image Classification model for 101 classes of food using TensorFlow.
+	-  This was an attempt to beat the deep food paper. Mixed precision training was used to speed up the training.
+	- This model is created using transfer learning. The architecture used was EfficientNetBX
+	- The model was fine tuned and the validation accuracy was found to be 80.16% which beats the deep food paper.
+
+- [DTweets](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/DTweets_NLP.ipynb) : 
+	- To classify tweets indicating a disaster or not indicating a disaster (binary classification) using Natural Language processing.
+	- The text data was vectorized using TF-IDF.
+	-  Different modelling Experiments such as were carried out such as Naïve Bayes Model, feed forward NN model, LSTM model, GRU model ,Bidirectional LSTM model , 1D CNN , TF Hub universal sentence encoder(USE)
+	- The USE model, LSTM and Naïve Bayes were the best performing models.
+	- Creating an Ensemble model by averaging the combined probability predictions of Naïve Bayes, LSTM model and USE model
+-  [SkimLit](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/SkimLit_NLP.ipynb) :
+	- Sequential Sentence classification in Medical Extracts(Replicating the deep learning model behind PubMed 200K RCT).
+	- This model classifies the abstract of a medical paper into Background, Methods, Results, Conclusions.
+	-  A hybrid embedding layer was created – combining pretrained token embeddings + character embeddings.
+	- The final model is a tribid model which combines token embeddings, character embeddings and positional embeddings with accuracy = 82.74, precision = 0.826, recall = 0.825 and f1= 0.827
+	
+- [BitPredict](https://github.com/prathamshankwalker/Projects-and-Work/blob/main/Machine%20Learning/BitPredict_Timeseries_and_Forecasting.ipynb): 
+	- Predicting the future price of Bitcoin using Timeseries and Forecasting Technique and TensorFlow.
+	-  Different  forecasting concepts like windowing and horizons were applied.
+	-  Different modelling experiments were carried out like Naïve Bayes model, Dense model, Conv1D model, LSTM model, Dense Multi Variate model, N-BEATs algorithm.
+	- The Dense model was seen to be the best performing model among all the experiments carried out. The the price of bitcoin was hence forecasted using the Dense model trained on the full data.
     
 ## Web Dev
 Basic Projects using html, css, JavaScript, php, Mysql
