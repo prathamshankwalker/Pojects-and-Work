@@ -1,7 +1,7 @@
 # Projects-and-Work
 All the projects I have done so far are in this Repository
 
-AI- Powered Web Apps
+## AI- Powered Web Apps
 - [Vakta VoiceBot](https://github.com/prathamshankwalker/Vakta_VoiceBot)</b>: Introducing "Vakta VoiceBot" - an innovative and cutting-edge GUI based project developed for the LablabAI Hackathon. Vakta is a state-of-the-art, fully voice-activated, and AI-enabled assistant, thoughtfully designed with the primary objective of empowering the visually impaired community. with adaptive learning technology. With an unwavering commitment to providing an inclusive and seamless user experience, Vakta will revolutionize the way blind individuals interact with technology.
   
 - [Resume Radar](https://github.com/prathamshankwalker/Resume_Radar)</b>: ML based Job recommendation system which utilizes NLP techniques like NER, RegEx and Machine Learning Algorithms for real-time personalized job recommendations on Glassdoor dataset.
