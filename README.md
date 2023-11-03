@@ -8,7 +8,7 @@ All the projects I have done so far are in this Repository
   
 - [Pick N Chill](https://github.com/prathamshankwalker/movie-recommendation-system)</b>: Movie Recommendation web-application utilizing Machine Learning techniques to recommend personalized movies for users according to their previous watched movies.
   
-- [Vital Sense]([https://github.com/prathamshankwalker/movie-recommendation-system](https://github.com/prathamshankwalker/VitalSense))</b>: A web-application developed during the hackathon for real-time health monitoring of heart rate, Blood pressure, hypertension, oxygen, etc from the data of wearable devices (smart-watches, smart bands). It leverages various machine learning models and algorithms to detect abnormality in the sensor data.
+- [Vital Sense](https://github.com/prathamshankwalker/VitalSense)</b>: A web-application developed during the hackathon for real-time health monitoring of heart rate, Blood pressure, hypertension, oxygen, etc from the data of wearable devices (smart-watches, smart bands). It leverages various machine learning models and algorithms to detect abnormality in the sensor data.
 
 
 ## Machine Learning and Deep Learning 
